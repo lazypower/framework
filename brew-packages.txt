@@ -12,6 +12,7 @@ glow
 go
 gostatic
 helm
+huggingface-cli
 jq
 k9s
 kind
@@ -22,6 +23,7 @@ nmap
 nushell
 opentofu
 podlet
+ramalama
 ripgrep
 rtmpdump
 shellcheck
