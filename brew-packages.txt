@@ -11,6 +11,7 @@ gh
 go
 gostatic
 helm
+jq
 k9s
 kind
 kubernetes-cli
@@ -27,6 +28,7 @@ sqlite
 topgrade
 tree-sitter
 unzip
+yq
 zoxide
 
 hashicorp/tap/vault
