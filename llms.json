@@ -1,0 +1,11 @@
+[
+  {
+    "description": "DeepSeek R1",
+    "model": "deepseek-r1:latest"
+  },
+  {
+    "description": "Qwen-Coder 3B",
+    "model": "qwen3-coder:latest"
+  }
+]
+
