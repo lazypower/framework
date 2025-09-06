@@ -8,6 +8,7 @@ cilium-cli
 direnv
 dysk
 gh
+glow
 go
 gostatic
 helm
