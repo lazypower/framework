@@ -8,8 +8,9 @@ if [ "$(type chezmoi)" == "chezmoi not found" ]; then
 fi
 
 # Install brew apps
-./brew-setup.sh
-# Install flatpak apps
-./flatpak-setup.sh
+brew tap hashicorp/tap
+xargs brew install < brew-packages.txt
 
+# Install flatpak apps
+cat flatpaks.json | jq '. | sort_by(.description)' | jq -r '.[].package' | xargs flatpak install
 

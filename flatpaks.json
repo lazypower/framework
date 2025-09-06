@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Bambulab Slicer",
+    "package": "com.bambulab.BambuStudio"
+  },
+  {
+    "description": "Bottles",
+    "package": "com.usebottles.bottles"
+  },
+  {
+    "description": "Butler HomeAssistant utility",
+    "package": "com.cassidyjames.butler"
+  },
+  {
+    "description": "Deskfow virtual KVM",
+    "package": "org.deskflow.deskflow"
+  },
+  {
+    "description": "Dino XMPP",
+    "package": "im.dino.Dino"
+  },
+  {
+    "description": "Discord chat",
+    "package": "com.discordapp.Discord"
+  },
+  {
+    "description": "Gradia screenshot tool",
+    "package": "be.alexandervanhee.gradia"
+  },
+  {
+    "description": "Localsend - airdrop alternative",
+    "package": "org.localsend.localsend_app"
+  },
+  {
+    "description": "OBS Studio",
+    "package": "com.obsproject.Studio"
+  },
+  {
+    "description": "Obsidian markdown",
+    "package": "md.obsidian.Obsidian"
+  },
+  {
+    "description": "Parabolic - Tube fetcher gui",
+    "package": "org.nickvision.tubeconverter"
+  },
+  {
+    "description": "Planify TODO app",
+    "package": "io.github.alainm23.planify"
+  },
+  {
+    "description": "Smile - emoji keyboard",
+    "package": "it.mijorus.smile"
+  },
+  {
+    "description": "Steam",
+    "package": "com.valvesoftware.Steam"
+  },
+  {
+    "description": "Stimulator - desktop suspend preventer",
+    "package": "io.github.sigmasd.stimulator"
+  },
+  {
+    "description": "SyncThingy file syncer",
+    "package": "com.github.zocker_160.SyncThingy"
+  }
+]

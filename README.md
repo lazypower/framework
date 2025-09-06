@@ -9,19 +9,15 @@ Welcome to my ultra-premium, artisanal, hand-crafted system setup scripts! This 
 
 ⚡ **Warning**: May cause excessive productivity and an irresistible urge to show off your terminal to strangers.
 
-## 🎯 The Magnificent Four
+## 🎯 The Terrific Three
 
 ### 📦 brew-packages.txt
 
 The holy grail of package names! This isn't just a text file—it's a curated collection of the finest software known to humankind. Each line represents hours of careful consideration and at least 3 cups of coffee.
 
-### 🍺 brew-setup.sh
+### 📱 flatpaks.json
 
-"In Homebrew We Trust" - This script doesn't just install packages, it performs digital alchemy to transmute your workstation into a developer's paradise. Side effects may include: spontaneous terminal poetry and an inexplicable love for command-line tools.
-
-### 📱 flatpak-setup.sh
-
-For when you need your Linux box to be flatter than a pancake but more powerful than a rocket ship. This script brings the magic of universal packages to your desktop faster than you can say "dependency hell."
+For when you need your Linux box to be flatter than a pancake but more powerful than a rocket ship. This inventory file brings the magic of universal packages to your desktop faster than you can say "dependency hell."
 
 ### ⚙️ system-setup.sh
 
