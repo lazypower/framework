@@ -24,6 +24,10 @@
     "package": "com.discordapp.Discord"
   },
   {
+    "description": "ffmpeg-full for firefox",
+    "package": "org.freedesktop.Platform.ffmpeg-full/x86_64/24.08"
+  },
+  {
     "description": "Gradia screenshot tool",
     "package": "be.alexandervanhee.gradia"
   },
