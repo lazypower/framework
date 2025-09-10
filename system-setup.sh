@@ -12,7 +12,7 @@ brew tap hashicorp/tap
 xargs brew install < brew-packages.txt
 
 # Install flatpak apps
-cat flatpaks.json | jq '. | sort_by(.description)' | jq -r '.[].package' | xargs flatpak install
+cat flatpaks.json | jq '. | sort_by(.description)' | jq -r '.[].package' | xargs flatpak install -y
 
 # Language Models
 if [ "$(type ramalama)" != "ramalama not found" ]; then
