@@ -21,6 +21,7 @@ minikube
 neovim
 nmap
 nushell
+ollama
 opentofu
 podlet
 ramalama
