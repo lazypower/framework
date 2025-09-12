@@ -29,6 +29,7 @@ ripgrep
 rtmpdump
 shellcheck
 sqlite
+tea
 topgrade
 tree-sitter
 unzip
