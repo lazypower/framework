@@ -25,6 +25,7 @@ ollama
 opentofu
 podlet
 ramalama
+restic
 ripgrep
 rtmpdump
 shellcheck
