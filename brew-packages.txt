@@ -38,3 +38,4 @@ yq
 zoxide
 
 hashicorp/tap/vault
+charmbracelet/tap/crush
